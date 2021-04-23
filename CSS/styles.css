@@ -44,12 +44,11 @@ p{
 font-size: 20px;
   line-height:20px;
 }
-/*.profile-statment{
+.profile-statment{
   width:500px;
   height:99px;
-  padding-bottom:10px;
   margin:auto;
-}*/
+}
 a{
   color: #11999E;
   font-family: arial, sans-;
